@@ -29,5 +29,10 @@ h2 {
 .services {
   background-image: url("/images/s_image.jpg");
   background-repeat: no-repeat;
-  height: 30vh;
+  height: 50vh;
+}
+#services {
+  text-align: center;
+  padding-top: 10%;
+  color: white;
 }
