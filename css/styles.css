@@ -1,17 +1,21 @@
 .para {
   background-image: url("/images/h_img.jpg");
   background-repeat: no-repeat;
-  height: 80vh;
-  text-align: center;
-  padding: 70px;
-  color: white;
+  height: 100vh;
 }
 /*.logo {
   display: block;
   margin: 0 auto;
   justify-content: center;
   padding-top: 300px;
+}*/
+.intro {
+  text-align: center;
+  color: white;
+  padding-top: 20%;
+  font-weight: bolder;
 }
-#intro {
-    padding: 50px;
+.mouse {
+  text-align: center;
+  padding: 5%;
 }
