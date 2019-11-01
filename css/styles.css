@@ -3,9 +3,10 @@
   background-repeat: no-repeat;
   height: 80vh;
   text-align: center;
+  padding: 70px;
   color: white;
 }
-.logo {
+/*.logo {
   display: block;
   margin: 0 auto;
   justify-content: center;
