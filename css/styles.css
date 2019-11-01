@@ -1,0 +1,16 @@
+.para {
+  background-image: url("/images/h_img.jpg");
+  background-repeat: no-repeat;
+  height: 90vh;
+  text-align: center;
+  color: white;
+}
+.logo {
+  display: block;
+  margin: 0 auto;
+  justify-content: center;
+  padding-top: 300px;
+}
+#intro {
+    padding: 50px;
+}
