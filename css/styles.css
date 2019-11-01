@@ -1,7 +1,7 @@
 .para {
   background-image: url("/images/h_img.jpg");
   background-repeat: no-repeat;
-  height: 100vh;
+  height: 80vh;
 }
 /*.logo {
   display: block;
@@ -18,4 +18,16 @@
 .mouse {
   text-align: center;
   padding: 5%;
+}
+.about {
+  text-align: center;
+  padding-top: 20px;
+}
+h2 {
+  font-weight: bolder;
+}
+.services {
+  background-image: url("/images/s_image.jpg");
+  background-repeat: no-repeat;
+  height: 30vh;
 }
