@@ -20,4 +20,24 @@ $(document).ready(function() {
     $(".image001").toggle(1200);
     $(".image001").show(1200);
   });
+  $(".image002").click(function() {
+    $(".image002").hide(1200);
+    $(".para002").toggle(1200);
+    $(".para002").show(1200);
+  });
+  $(".para002").click(function() {
+    $(".para002").hide(1200);
+    $(".image002").toggle(1200);
+    $(".image002").show(1200);
+  });
+  $(".image003").click(function() {
+    $(".image003").hide(1200);
+    $(".para003").toggle(1200);
+    $(".para003").show(1200);
+  });
+  $(".para003").click(function() {
+    $(".para003").hide(1200);
+    $(".image003").toggle(1200);
+    $(".image003").show(1200);
+  });
 });
