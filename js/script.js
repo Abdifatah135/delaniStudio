@@ -1,4 +1,8 @@
 $(document).ready(function() {
+  $('.para001').hide();
+    $('.para002').hide();
+    $('.para003').hide();
+
   $(".image001").click(function() {
     $(".image001").hide(1200);
     $(".para001").toggle(1200);
@@ -31,3 +35,5 @@ $(document).ready(function() {
     $(".image003").show(1200);
   });
 });
+
+              
