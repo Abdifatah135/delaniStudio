@@ -1,15 +1,4 @@
 $(document).ready(function() {
-  /*$("h1").click(function() {
-    alert("This is a header.");
-  });
-
-  $("p").click(function() {
-    alert("This is a paragraph.");
-  });
-
-  $("img").click(function() {
-    alert("This is an image.");
-  });*/
   $(".image001").click(function() {
     $(".image001").hide(1200);
     $(".para001").toggle(1200);
@@ -20,6 +9,7 @@ $(document).ready(function() {
     $(".image001").toggle(1200);
     $(".image001").show(1200);
   });
+
   $(".image002").click(function() {
     $(".image002").hide(1200);
     $(".para002").toggle(1200);
