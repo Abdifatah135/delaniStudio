@@ -46,6 +46,7 @@ figcaption {
   margin-top: 20px;
   padding-top: 20px;
   color: white;
+  text-align: center;
 }
 .socio{
   display: block;
@@ -56,4 +57,7 @@ figcaption {
 footer{
   text-align: center;
   margin-top: 50px;
+}
+#info{
+  padding-bottom: 20px;
 }
