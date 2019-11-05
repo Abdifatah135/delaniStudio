@@ -1,7 +1,7 @@
 .para {
   background-image: url("../images/h_img.jpg");
   background-repeat: no-repeat;
-  height: 80vh;
+  height: 100vh;
 }
 
 .intro {
@@ -9,6 +9,7 @@
   color: white;
   padding-top: 20%;
   font-weight: bolder;
+  font-size: 50%;
 }
 .mouse {
   text-align: center;
@@ -17,6 +18,7 @@
 .about {
   text-align: center;
   padding-top: 20px;
+  height:50vh;
 }
 h2 {
   font-weight: bolder;
@@ -41,7 +43,7 @@ figcaption {
 .contact {
   background-image: url("../images/c_image.jpg");
   background-repeat: no-repeat;
-  height: 50vh;
+  height: 70vh;
   width: 200vh;
   margin-top: 20px;
   padding-top: 20px;
@@ -52,12 +54,30 @@ figcaption {
   display: block;
   margin-top: 30px;
   text-align: center;
+  height: 10vh;
   
 }
 footer{
   text-align: center;
   margin-top: 50px;
+  height: 10vh;
 }
 #info{
   padding-bottom: 20px;
+}
+.road{
+  position: absolute;
+  top: 10%;
+  color:white;
+  text-align: center;
+  right: 20%;
+  font-size: 20px;
+  border-style: solid;
+  border-width: 5px;
+  padding: 60px 20px;
+  
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.croseover{
+  padding: 20px;
 }
