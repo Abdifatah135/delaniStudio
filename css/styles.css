@@ -9,7 +9,12 @@
   color: white;
   padding-top: 20%;
   font-weight: bolder;
-  font-size: 50%;
+  font-size: 20px;
+}
+.intro h1 {
+  font-size: 4.5rem;
+  font-weight: bold;
+  line-height: 150px;
 }
 .mouse {
   text-align: center;
@@ -36,6 +41,13 @@ h2 {
 }
 .doing {
   padding-top: 20px;
+  height: 30vh;
+}
+.portfo {
+  height: 70vh;
+}
+.top img {
+  width: 100%;
 }
 figcaption {
   font-weight: bolder;
